@@ -56,7 +56,7 @@ Separate header and foot page content in part-page templates that can be re-used
     </nav>
     ```
 
-- create `/templates/__footer.php` containing the common HTML footer content
+- create `/templates/_footer.php` containing the common HTML footer content
     
     ```php
     <footer>
@@ -101,5 +101,3 @@ Separate header and foot page content in part-page templates that can be re-used
         ?>
         ```
 
-
-- https://github.com/dr-matt-smith/evote-movie-2022-04-header-footer-templates
